@@ -6,7 +6,7 @@
 
 ---
 
-### About me:
+### Some words about me:
 
 - 🔭 I’m studing in MIPT on SAMCS
 - 💬 Ask me about everything
