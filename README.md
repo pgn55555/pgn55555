@@ -1,16 +1,14 @@
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
-<!--
-**pgn55555/pgn55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m studing in MIPT on SAMCS
+- 💬 Ask me about everything
+- 📫 How to reach me: with the heart
+- ⚡ Fun fact: this is a standard template
